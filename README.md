@@ -1,3 +1,5 @@
+# Use This Repo To Test Customization
+
 # New Repo Project
 
 The new-repo project is a default template for .NET Foundation projects. It's also probably a fine start for other .NET projects (have at it, but change the license). It contains the correct license, a decent README, and initial project structure (including a standard .gitignore for the Visual Studio family of products).
